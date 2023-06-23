@@ -3,7 +3,7 @@
 <h1 align="center">Hola there, I'm Innocent NYADRU</h1>
 <h3 align="center">That web guy from Uganda. Interests to hobbies</h3>
 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cerulean-jelly-a1dccc.netlify.app/#](https://cerulean-jelly-a1dccc.netlify.app/#)
 
-- 📝 I regularly write articles on [https://medium.com/@jacquesinnocentadv](https://medium.com/@jacquesinnocentadv)
+- 📝 I regularly write articles on <a href="[https://medium.com/@jacquesinnocentadv](https://medium.com/@jacquesinnocentadv)" target="blank"> **Medium**</a>
 
 - 💬 Ask me about **Node.js**
 

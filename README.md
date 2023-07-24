@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hola there, I'm Innocent NYADRU</h1>
+<h1 align="center">Hola there, I'm Innocent...</h1>
 <h3 align="center">That web guy from Uganda. Interests to hobbies</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/jacquesinnocen" target="blank"><img src="https://img.shields.io/twitter/follow/jacquesinnocen?logo=twitter&style=for-the-badge" alt="jacquesinnocen" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://cerulean-jelly-a1dccc.netlify.app/#)
+- 🔭 I’m currently working on [My Portfolio](https://nyadruinnocent.netlify.app/)
 
 - 🌱 I’m currently learning **React, Go**
 
 - 👯 I’m looking to collaborate on **a Blockchain project**
 
-- 👨‍💻 All of my projects are available [Here](https://cerulean-jelly-a1dccc.netlify.app/#)
+- 👨‍💻 All of my projects are available [Here](https://nyadruinnocent.netlify.app/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jacquesinnocentadv)
 
